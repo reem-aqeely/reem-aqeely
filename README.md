@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👩‍💻 About Me:<br><br>🔭 I’m currently<br>Started working on my first Artificial Intelligence project, with experience in Java, C, Python, and Databases.<br><br>🌱 Learning<br>Continuing my learning through university coursework, building on a strong academic background.<br><br>🎨 Design<br>Experienced in designing user interfaces using Figma, with familiarity in Canva.<br><br>👯 I’m open to collaborating on<br>Beginner-friendly projects in AI or software development.<br><br>💬 Ask me about<br>Java, C, Python basics, database concepts, or university CS topics.<br><br>⚡ Fun fact<br>I’m curious about how ideas turn into real applications.
+🔭 I’m currently<br>Started working on my first Artificial Intelligence project, with experience in Java, C, Python, and Databases.<br><br>🌱 Learning<br>Continuing my learning through university coursework, building on a strong academic background.<br><br>🎨 Design<br>Experienced in designing user interfaces using Figma, with familiarity in Canva.<br><br>👯 I’m open to collaborating on<br>Beginner-friendly projects in AI or software development.<br><br>💬 Ask me about<br>Java, C, Python basics, database concepts, or university CS topics.<br><br>⚡ Fun fact<br>I’m curious about how ideas turn into real applications.
 
 
 # 💻 Tech Stack:
